@@ -1,3 +1,9 @@
 # merge-together
 
-monkey with a hat and gold chains 
+monkey 
+with 
+a 
+hat 
+and 
+gold 
+chains 
