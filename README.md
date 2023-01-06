@@ -3,7 +3,7 @@
 monkey 
 with 
 a 
-hat 
+drip
 and 
 gold 
 chains 
