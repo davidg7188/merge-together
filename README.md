@@ -1,9 +1,9 @@
 # merge-together
 
-monkey 
-with 
-a 
-hat 
-and 
-gold 
-chains 
+dog
+with
+a
+hat
+and
+gold
+chains
